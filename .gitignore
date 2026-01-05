@@ -1,6 +1,15 @@
+# Virtual Environment
 .venv/
+venv/
+
+# PyCharm / IDE
+.idea/
+
+# Python cache
 __pycache__/
 *.pyc
-attendance.csv
-.idea/
+
+# OS files
+.DS_Store
+
 
